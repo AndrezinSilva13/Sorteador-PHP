@@ -1,0 +1,63 @@
+body{
+    background-image: url(/images/dado.jpg.opdownload);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+main{
+    background-image: url(/images/backgroundInput.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.title{
+    font-size: 250%;
+    color: rgba(255,0,0,500);
+    font-style: oblique;
+    text-align: center;
+}
+
+.information{
+    font-size: 130%;
+    color: rgba(255,0,0,500);
+    font-style: oblique;
+    text-align: center;
+}
+
+.inserirParticipantesTitle{
+    color: darkblue;
+    font-size: 110%;
+    margin-left: 2%;
+}
+
+.inputAdicionar{
+    font-size: 110%;
+    margin-left: 2%;
+}
+
+.botaoAdicionar{
+    font-size: 110%;
+    margin-left: 2%;
+    color: aliceblue;
+    background-color: darkblue;
+}
+
+.participantesListTitle{
+    color: darkblue;
+    font-size: 110%;
+    margin-left: 2%;
+}
+
+.lista{
+    color: aliceblue;
+    background-color: darkblue;
+    font-size: 110%;
+    margin-left: 2%;
+}
+
+.botaoSortear{
+    font-size: 110%;
+    margin-left: 2%;
+    color: aliceblue;
+    background-color: darkblue;
+    margin-left: 45%;
+}

@@ -1,0 +1,38 @@
+body{
+    background-image: url(/images/dado.jpg.opdownload);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+main{
+    background-image: url(/images/backgroundInput.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.title{
+    font-size: 250%;
+    color: rgba(255,0,0,500);
+    font-style: oblique;
+    text-align: center;
+}
+
+.ganhadorTitle{
+    font-size: 200%;
+    color: darkblue;
+    text-align: center;
+}
+
+.ganhador{
+    font-size: 350%;
+    color: rgba(255,0,0,500);
+    text-align: center;
+}
+
+.voltarButton{
+    font-size: 200%;
+    margin-left: 2%;
+    color: aliceblue;
+    background-color: darkblue;
+    margin-left: 45%;
+}
